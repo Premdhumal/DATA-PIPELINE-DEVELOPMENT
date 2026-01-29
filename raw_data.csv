@@ -1,0 +1,6 @@
+age,gender,salary,department
+25,Male,50000,IT
+30,Female,60000,HR
+28,Male,,Finance
+35,Female,80000,IT
+, Male,55000,HR
