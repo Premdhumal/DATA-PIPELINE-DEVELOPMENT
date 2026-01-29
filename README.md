@@ -13,6 +13,9 @@
 *MENTOR*: NEELA SANTOSH
 
 #OUTPUT: 
+## Output
+
+![OUTPUT](Code_xqH4pr5KgS.png)
 
 
 #In this task, I created an ETL (Extract, Transform, Load) pipeline using Python. The purpose of this task was to understand how raw data can be automatically processed and prepared before it is used for analysis or machine learning. In real-life applications, data is often incomplete, unstructured, and contains missing or incorrect values. Because of this, preprocessing and transformation are very important steps before using the data.
